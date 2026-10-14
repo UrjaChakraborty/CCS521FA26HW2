@@ -1,0 +1,7 @@
+hw2/q5/cfenv/
+hw2/q5/constraintflow/
+hw2/q5/build_deeppoly/
+hw2/q5/build_dual_lower/
+hw2/q5/data/
+__pycache__/
+*.pyc
