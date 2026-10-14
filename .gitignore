@@ -5,3 +5,6 @@ hw2/q5/build_dual_lower/
 hw2/q5/data/
 __pycache__/
 *.pyc
+
+# VAE bonus Python environment
+hw2/bonus_vae/.venv/
